@@ -1,0 +1,62 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 592px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 493px;
+  background-image: linear-gradient(rgba(37,124,70,0.85), #293332);
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  width: 529px;
+  margin: 50px auto;
+}
+
+.u-section-1 .u-input-1 {
+  background-image: linear-gradient(190deg, #ccd3db, #332929);
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-input-2 {
+  background-image: linear-gradient(190deg, #ccd3db, #332929);
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-3 {
+  background-image: linear-gradient(190deg, #ccd3db, #332929);
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-btn-1 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .embed-responsive-1 {
+    width: 195%;
+    left: -47%;
+    height: 100%;
+    top: 0%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .embed-responsive-1 {
+    width: 310%;
+    left: -105%;
+  }
+}
